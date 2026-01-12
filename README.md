@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi! I'm Jonathan 👋 🇺🇬
 
-<!--
-**ibanda-jonathan/ibanda-jonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Senior 3 Student | Future Kotlin Developer
+I am currently in Senior 3, jumping straight from S1 and using code to bridge the gap! I use **Kotlin** to automate my school work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 S3 Subject Integration
+I use code to master my O'Level subjects:
+- **Physics:** Built a [Density Calculator](https://github.com/ibanda-jonathan/ibanda-jonathan/blob/main/DensityCalculator.kt).
+- **Mathematics:** Creating a Simple Interest solver.
+- **ICT:** Mastering Git & GitHub for professional project documentation.
+
+## 📈 My Goals for 2026
+- [ ] Complete my Senior 3 Integrated Project.
+- [ ] Build a "Formula Solver" Android App.
+- [ ] Master Kotlin fundamentals.
+
+---
+📫 **Connect with me:** Reach out if you want to collaborate on school projects!
